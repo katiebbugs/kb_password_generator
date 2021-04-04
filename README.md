@@ -1,9 +1,9 @@
 # kb_password_generator
 3. JavaScript Challenge: Password Generator
 
+https://github.com/katiebbugs/kb_password_generator
 
-
-
+https://katiebbugs.github.io/kb_password_generator/
 
 On-the-Job Ticket: take existing HTML, CSS, Javascript code and add working Javascript code to generate the random password.
 
@@ -35,3 +35,5 @@ Edits Made: organized code and created Javascript formula to create random passw
     Created Javascript prompt and confirm questions
     Organized Javascript answers for chosen character list
     Create Javascript for loop and random math to generate random password at the chosen length wit the chosen characters
+
+![finished-password-generator](https://user-images.githubusercontent.com/79028196/113520521-df3a6300-9550-11eb-95df-988491c4c159.png)
